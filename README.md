@@ -2,7 +2,7 @@
 
 Full-field LED stimulator running on the pyBoard using MicroPython.
 
-![Test](https://github.com/teuler/pyBoard_LED_stimulator/master/pictures/2017-03-11_09_04_15.jpg)
+![](https://github.com/teuler/pyBoard_LED_stimulator/master/pictures/2017-03-11_09_04_15.jpg)
 
 First test version, with 4 LEDs connected to pins X1 to X4, a synchronization signal ("trigger") provided at pin Y11, and a fast, external "blanking" signal (high == LEDs off) received at pin Y10.
 
